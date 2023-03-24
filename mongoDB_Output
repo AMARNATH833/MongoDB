@@ -1,0 +1,127 @@
+[
+  {
+    "_id": {
+      "$oid": "6412ded6f893362464824239"
+    },
+    "firstname": "AmarSplash"
+  },
+  {
+    "_id": {
+      "$oid": "6412def0213ff82b2722ade7"
+    },
+    "firstname": "Mugesh",
+    "age": 23
+  },
+  {
+    "_id": {
+      "$oid": "6412e402e5200aaccefb8645"
+    },
+    "title": "AMARNATH",
+    "author": "Vijay"
+  },
+  {
+    "_id": {
+      "$oid": "6412e402e5200aaccefb8646"
+    },
+    "title": "Mobile",
+    "author": "Merlinz"
+  },
+  {
+    "_id": {
+      "$oid": "6414301c3e9b0ec8ee523cf3"
+    },
+    "firstname": "Mugesh"
+  },
+  {
+    "_id": 1,
+    "tests": [
+      95,
+      92,
+      90
+    ],
+    "modified": {
+      "$date": "2019-01-01T00:00:00Z"
+    }
+  },
+  {
+    "_id": 2,
+    "tests": [
+      94,
+      88,
+      90
+    ],
+    "modified": {
+      "$date": "2019-01-01T00:00:00Z"
+    }
+  },
+  {
+    "_id": 3,
+    "tests": [
+      70,
+      75,
+      82
+    ],
+    "modified": {
+      "$date": "2019-01-01T00:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64194de66c786242ae5e6ca0"
+    },
+    "age": 35,
+    "dept": "LAMP"
+  },
+  {
+    "_id": {
+      "$oid": "64195189b6fee7fbf75c3541"
+    },
+    "Model": "Vivo V20",
+    
+    [
+  {
+    "_id": {
+      "$oid": "641d98c85d8051f17e1c146f"
+    },
+    "name": "Central Park",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.97,
+        40.77
+      ]
+    },
+    "category": "Parks"
+  },
+  {
+    "_id": {
+      "$oid": "641d98c85d8051f17e1c1470"
+    },
+    "name": "Sara D. Roosevelt Park",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.9928,
+        40.7193
+      ]
+    },
+    "category": "Parks"
+  },
+  {
+    "_id": {
+      "$oid": "641d98c85d8051f17e1c1471"
+    },
+    "name": "Polo Grounds",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.9375,
+        40.8303
+      ]
+    },
+    "category": "Stadiums"
+  }
+]
+    "Price": 25000
+  }
+]
